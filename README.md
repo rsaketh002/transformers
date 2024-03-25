@@ -10,6 +10,16 @@ Transformers implementation from scratch using attention is all you need archite
 here is are the validation results after training for 7gpu days for 34 epochs
 
 
+
+
+
+
+
+
+
+
+
+
 actual:    Aveva appena... — cominciò a scusarsi Kitty.
 Predicted: Aveva appena ... — cominciò a scusarsi Kitty .
 ________________________________________________________________________________________________________
